@@ -2,11 +2,10 @@
   "name": "proyectoclase",
   "version": "1.0.0",
   "description": "Proyecto1 IA1",
-  "main": "app.js",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
